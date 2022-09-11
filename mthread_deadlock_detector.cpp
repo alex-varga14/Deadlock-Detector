@@ -1,7 +1,6 @@
-// File: deadlock_detector.cpp
 // Author: Alexander Varga
 // date: 26/11/2021
-#include "deadlock_detector.h"
+#include "mthread_deadlock_detector.h"
 #include "common.h"
 #include <iostream>
 #include <unordered_map>
